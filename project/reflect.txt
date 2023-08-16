@@ -1,0 +1,15 @@
+// Name: Akash yadav
+// Seneca Student ID: 172566218
+// Seneca email: ayadav35@myseneca.ca
+
+//
+// I confirm that I am the only author of this file and the content was created entirely by me.
+
+
+Completing Milestone 3 in the course posed the most formidable challenge for me. Although I managed to complete the first two milestones without full comprehension, I realized the significance of understanding the overall logic before diving into a project. This led me to review previous milestones and gain the necessary insights, which ultimately helped me successfully implement Milestone 3.
+
+During this phase, I familiarized myself with STL containers and algorithms, which I found enjoyable. The most fascinating part was implementing the linked-list algorithm using the container. However, the "attemptToMoveOrder" function in the "Workstation" file proved to be a significant challenge. Debugging and troubleshooting required substantial effort, especially when determining the correct placement of user orders in the "completed" or "incomplete" container based on item status. Despite the obstacles, I persisted in diligent debugging and careful examination of variable values, which ultimately allowed me to resolve the issue.
+
+Another interesting aspect was using STL algorithms instead of traditional loop statements. While it posed difficulties initially, attending workshops and practicing extensively helped me overcome this challenge. As a result, I not only mastered implementing STL algorithms in the LineManager constructor but also in other functions like "run" and "display" in LineManager.cpp, using range-based for statements and for_each, respectively. This experience significantly enhanced my proficiency with STL algorithms.
+
+In summary, Milestone 3 provided a demanding yet valuable learning experience. It underscored the importance of grasping the entire process before starting a project and offered ample opportunities to improve my skills with STL containers and algorithms. The challenges I faced, along with my dedicated debugging and problem-solving efforts, contributed to my growth as a programmer and strengthened my grasp of the course material.
